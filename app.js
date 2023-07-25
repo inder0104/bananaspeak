@@ -1,5 +1,4 @@
-var userName = prompt("give me your name");
-alert("This site is work " + userName);
+
 
 var btnTranslate = document.querySelector("#btn-translate");
 var txtInput = document.querySelector("#txt-input");
