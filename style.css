@@ -23,6 +23,7 @@
     background-color: var(--netral-color);
     max-width: 1000px;
     padding: 2rem;
+    font-size: large;
     
 }
 .button{ 
